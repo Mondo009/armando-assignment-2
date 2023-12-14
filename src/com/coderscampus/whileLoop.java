@@ -6,8 +6,8 @@ public class whileLoop {
 	//	while (i < 100) {
 	//		System.out.println(i);
 		//	i = i +1;
-		}
+	//	}
 	//	System.out.println("Done");
 	}
 
-}
+//}
